@@ -1,6 +1,8 @@
 # Animated Flag with Bezier Curves
 
-This interactive computer graphics project showcases a dynamically animated flag using Bezier curves. Developed in OpenGL, the flag elegantly sways with smooth curves, creating a mesmerizing blend of mathematical precision and artistic motion.
+This computer graphics project showcases a dynamically animated flag using Bezier curves. Developed in OpenGL, the flag elegantly sways with smooth curves, creating a mesmerizing blend of mathematical precision and artistic motion.
+
+![flag-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/kodiidok/glut-bezier-curve-animated-flag/assets/88420631/86588480-68dd-433c-8aa8-39527d24c5ad)
 
 ## Features
 
